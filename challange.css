@@ -1,0 +1,30 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-image: url("https://img.freepik.com/vetores-gratis/fundo-de-quadro-de-matematica_1995-357.jpg?size=626&ext=jpg");
+  background-position: center ;
+  background-repeat: repeat;
+}
+
+h1 {
+  text-align: center;
+}
+
+input, button {
+  margin: 12px;
+  padding: 8px;
+  border: solid ;
+}
+
+input {
+  background-color: lightblue;
+}
+
+button {
+  color: black;
+  background-color: green;
+}
+
+.center {
+  margin-left: 250px;
+
+}
